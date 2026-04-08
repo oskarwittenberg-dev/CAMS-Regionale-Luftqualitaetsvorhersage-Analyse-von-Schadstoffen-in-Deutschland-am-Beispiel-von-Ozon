@@ -1,4 +1,4 @@
-# CAMS Luftqualitaetsvorhersage – Ozon Deutschland
+# CAMS Luftqualitätsvorhersage – Ozon Deutschland
 
 In diesem Notebook wird gezeigt, wie CAMS-Vorhersagedaten für Deutschland heruntergeladen und analysiert werden können.
 
