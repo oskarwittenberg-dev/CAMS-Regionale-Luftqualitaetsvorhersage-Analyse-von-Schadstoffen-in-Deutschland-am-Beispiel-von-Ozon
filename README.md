@@ -50,7 +50,7 @@ Die dargestellten Werte basieren auf modellierten Vorhersagen und stellen keine 
 
 ## Nutzung
 
-Das Notebook kann direkt in der Cloud ausgeführt werden:
+Das Notebook kann direkt in der Cloud ausgeführt werden, wobei Google Colab zu empfehlen ist:
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskarwittenberg-dev/CAMS-Ozon-Deutschland/HEAD)
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code)
